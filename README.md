@@ -210,5 +210,3 @@ All projects are open-source under the **MIT License**. See each directory for d
 
 **Built for CodexInterns | Developed by Ark Barua**  
 *Inspire. Learn. Ship together.*
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/47989688/45a4d185-4d70-463b-82e6-07e16bb451f4/3-README.md-files.txt
